@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
 
 <h3 align="center">
-🚀 Full Stack (MERN) Developer | React.js | Node.js | API Specialist
+🚀 Full Stack (MERN) Developer | React.js | Node.js | Java | API Specialist
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;API+Integration+Expert;Open+to+Opportunities&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Java+%7C+OOP+Enthusiast;Docker+%7C+AWS+Basics;API+Integration+Expert;Open+to+Opportunities&center=true&width=550&height=50">
 </p>
 
 ---
@@ -14,9 +14,10 @@
 
 - 💻 Full Stack Developer with hands-on MERN experience  
 - ⚛️ Strong in React.js, JavaScript (ES6+), Tailwind, MUI  
+- ☕ Solid foundation in **Java & Object-Oriented Programming (OOP)**  
 - 🔗 Expert in REST API Integration & Authentication  
 - 🔐 Built secure systems using JWT & RBAC  
-- ☁️ Basic knowledge of AWS & Docker  
+- ☁️ Familiar with **Docker & AWS (EC2, S3, IAM)**  
 - 🚀 Open to Full Stack / Frontend Developer roles  
 
 ---
@@ -24,7 +25,7 @@
 ## 🛠️ Tech Stack  
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,redux,nodejs,express,mongodb,mysql,docker,aws,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,java,html,css,tailwind,redux,nodejs,express,mongodb,mysql,docker,aws,git,github,vscode,postman" />
 </p>
 
 ---
@@ -60,6 +61,7 @@
 
 ### 🏦 Banking Backend System  
 - Secure transaction system with JWT & bcrypt  
+- Designed backend using **OOP principles & scalable architecture**  
 - APIs for transfer, history & account management  
 - Email notification system  
 
@@ -94,7 +96,7 @@
 
 ## ⚡ Fun Fact  
 
-I love turning complex backend logic into simple and beautiful UI ✨  
+I enjoy designing scalable backend systems and turning complex logic into simple UI ✨  
 
 ---
 

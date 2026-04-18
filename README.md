@@ -1,21 +1,21 @@
-👋 Hi, I'm Rohit Yadav
+<h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
 
-# 🚀 Rohit Yadav | Full Stack (MERN) Developer  
+<h3 align="center">
+🚀 Full Stack (MERN) Developer | React.js | Node.js | API Specialist
+</h3>
 
-🔗 LinkedIn: https://www.linkedin.com/in/rohit-ydv  
-💻 GitHub: https://github.com/rohitrao93198  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;API+Integration+Expert;Open+to+Opportunities&center=true&width=500&height=50">
+</p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-I’m a Full Stack Developer (MERN) with hands-on experience in building scalable and secure web applications.  
-
-I specialize in React.js, JavaScript (ES6+), and REST API integration, along with backend development using Node.js, Express.js, and MongoDB.  
-
-- 💡 Strong in frontend development & responsive UI  
-- 🔐 Experience with JWT Authentication & RBAC  
-- 🔗 Skilled in REST API integration  
+- 💻 Full Stack Developer with hands-on MERN experience  
+- ⚛️ Strong in React.js, JavaScript (ES6+), Tailwind, MUI  
+- 🔗 Expert in REST API Integration & Authentication  
+- 🔐 Built secure systems using JWT & RBAC  
 - ☁️ Basic knowledge of AWS & Docker  
 - 🚀 Open to Full Stack / Frontend Developer roles  
 
@@ -23,108 +23,79 @@ I specialize in React.js, JavaScript (ES6+), and REST API integration, along wit
 
 ## 🛠️ Tech Stack  
 
-### 💻 Frontend  
-- React.js  
-- Next.js  
-- Redux Toolkit  
-- Tailwind CSS  
-- Material UI  
-- HTML5, CSS3  
-
-### ⚙️ Backend  
-- Node.js  
-- Express.js  
-- REST APIs  
-- JWT Authentication  
-
-### 🗄️ Database  
-- MongoDB  
-- MySQL  
-
-### ☁️ Tools & DevOps  
-- Git & GitHub  
-- Postman  
-- Docker (Basics)  
-- AWS (EC2, S3, IAM)  
-- VS Code  
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,redux,nodejs,express,mongodb,mysql,docker,aws,git,github,vscode,postman" />
+</p>
 
 ---
 
 ## 💼 Experience  
 
-### Frontend Developer — Rapidsoft Technologies  
-📍 Gurugram, India | 🗓️ Jan 2025 – May 2025  
+**Frontend Developer — Rapidsoft Technologies**  
+📍 Gurugram | 🗓️ Jan 2025 – May 2025  
 
-- Built responsive web applications using React.js, JavaScript, HTML5, CSS3, and Material UI  
-- Developed a User Management System with reusable components  
-- Implemented role-based authentication (Admin/Employee)  
-- Designed Admin Dashboard with full CRUD operations  
-- Integrated REST APIs and collaborated with backend team  
+- Built responsive web apps using React.js & MUI  
+- Developed User Management System  
+- Implemented Role-Based Access (Admin/Employee)  
+- Created Admin Dashboard with CRUD operations  
+- Integrated REST APIs with backend team  
 
 ---
 
 ## 🚀 Projects  
 
 ### 🧠 Panchayat – AI-powered Society Management System  
-**Tech:** MERN, JWT, OpenRouter AI, Nodemailer, Recharts  
-
-- Built a full-stack system for complaints, services & AI chatbot  
-- Implemented voice-based complaint system using speech recognition  
-- Integrated AI chatbot for rulebook queries  
-- Added real-time notifications & automated email system  
-- Implemented PDF parsing with AI-based query system  
+- MERN stack + AI chatbot + voice complaint system  
+- Real-time notifications & email automation  
+- PDF-based AI query system  
 
 ---
 
-### 💼 CareerNest – Job Portal (MERN)  
-**Tech:** React, Node.js, MongoDB, Redux, Tailwind, Cloudinary  
-
-- Developed a full-stack job portal with JWT authentication  
-- Built 10+ REST APIs for jobs, users, applications  
-- Integrated Cloudinary & Multer for file uploads  
-- Used Redux Toolkit for state management  
+### 💼 CareerNest – Job Portal  
+- Full-stack MERN app with JWT auth  
+- 10+ REST APIs & file upload system  
+- Redux Toolkit for state management  
 
 ---
 
 ### 🏦 Banking Backend System  
-**Tech:** Node.js, Express, MongoDB, JWT, Bcrypt  
-
-- Developed secure backend for account & transaction management  
-- Ensured data consistency and transactional integrity  
-- Built APIs for money transfer, balance, and history  
-- Implemented email notifications for transactions  
+- Secure transaction system with JWT & bcrypt  
+- APIs for transfer, history & account management  
+- Email notification system  
 
 ---
 
-## 📜 Certifications  
+## 📊 GitHub Stats  
 
-- MERN Stack Development – Ducat India  
-- Web Development – Internshala  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitrao93198&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrao93198&theme=radical" />
+</p>
 
 ---
 
-## 📈 What I Bring  
+## 🏆 GitHub Trophies  
 
-- Clean and scalable coding practices  
-- Strong problem-solving skills  
-- Real-world project experience  
-- End-to-end development capability  
-- Good communication and teamwork  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitrao93198&theme=radical&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
 ## 📫 Connect With Me  
 
-📧 Email: ry164863@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/rohit-ydv  
-💻 GitHub: https://github.com/rohitrao93198  
+<p align="center">
+<a href="https://www.linkedin.com/in/rohit-ydv"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:ry164863@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/rohitrao93198"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact  
 
-I enjoy building real-world scalable applications and turning complex problems into simple UI experiences.
+I love turning complex backend logic into simple and beautiful UI ✨  
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ *If you like my work, don't forget to star my repositories!*

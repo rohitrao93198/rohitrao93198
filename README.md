@@ -1,122 +1,101 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rohit+Yadav;Full+Stack+MERN+Developer;Building+Scalable+Web+Apps;Open+to+Opportunities" />
-</h1>
+<h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
+
+<h3 align="center">
+🚀 Full Stack (MERN) Developer | React.js | Node.js | API Specialist
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-00ff9c?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/FOCUS-MERN_STACK-0affff?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ROLE-FULL_STACK_DEV-ff00ff?style=for-the-badge">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;API+Integration+Expert;Open+to+Opportunities&center=true&width=500&height=50">
 </p>
 
 ---
 
-```diff
-+ 👨‍💻 Rohit Yadav | Full Stack Developer (MERN)
-+ ⚛️ React | Node.js | MongoDB | API Integration
-+ 🔐 JWT Auth | RBAC | Secure Systems
-+ ☁️ AWS | Docker (Basics)
-```
+## 👨‍💻 About Me  
+
+- 💻 Full Stack Developer with hands-on MERN experience  
+- ⚛️ Strong in React.js, JavaScript (ES6+), Tailwind, MUI  
+- 🔗 Expert in REST API Integration & Authentication  
+- 🔐 Built secure systems using JWT & RBAC  
+- ☁️ Basic knowledge of AWS & Docker  
+- 🚀 Open to Full Stack / Frontend Developer roles  
 
 ---
 
-## ⚡ SYSTEM_PROFILE  
+## 🛠️ Tech Stack  
 
-```bash
-> Name: Rohit Yadav
-> Role: Full Stack Developer
-> Stack: MERN (MongoDB, Express, React, Node)
-> Focus: Scalable UI + Secure Backend
-> Status: Open to Work 🚀
-```
-
----
-
-## 🧬 TECH_STACK  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,redux,nodejs,express,mongodb,mysql,docker,aws,git,github,vscode,postman" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,redux,nodejs,express,mongodb,mysql,docker,aws,git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🚀 PROJECTS  
+## 💼 Experience  
 
-```yaml
-Panchayat (AI-powered System):
-  - Voice-based complaint system 🎤
-  - AI chatbot 🤖
-  - Real-time notifications 📩
-  - MERN + OpenRouter AI
+**Frontend Developer — Rapidsoft Technologies**  
+📍 Gurugram | 🗓️ Jan 2025 – May 2025  
 
-CareerNest (Job Portal):
-  - JWT Authentication 🔐
-  - 10+ REST APIs ⚙️
-  - Cloudinary Uploads ☁️
-  - Redux Toolkit State Mgmt
-
-Banking Backend System:
-  - Secure Transactions 💰
-  - JWT + Bcrypt 🔒
-  - Email Alerts 📧
-  - Idempotent APIs ⚡
-```
+- Built responsive web apps using React.js & MUI  
+- Developed User Management System  
+- Implemented Role-Based Access (Admin/Employee)  
+- Created Admin Dashboard with CRUD operations  
+- Integrated REST APIs with backend team  
 
 ---
 
-## 💼 EXPERIENCE  
+## 🚀 Projects  
 
-```diff
-+ Frontend Developer @ Rapidsoft Technologies (2025)
-  - Built scalable React applications
-  - Created Admin Dashboard (CRUD)
-  - Implemented RBAC (Admin/Employee)
-  - Integrated REST APIs
-```
+### 🧠 Panchayat – AI-powered Society Management System  
+- MERN stack + AI chatbot + voice complaint system  
+- Real-time notifications & email automation  
+- PDF-based AI query system  
 
 ---
 
-## 📊 SYSTEM_STATS  
+### 💼 CareerNest – Job Portal  
+- Full-stack MERN app with JWT auth  
+- 10+ REST APIs & file upload system  
+- Redux Toolkit for state management  
+
+---
+
+### 🏦 Banking Backend System  
+- Secure transaction system with JWT & bcrypt  
+- APIs for transfer, history & account management  
+- Email notification system  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitrao93198&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrao93198&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitrao93198&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrao93198&theme=radical" />
 </p>
 
 ---
 
-## 🏆 ACHIEVEMENTS  
+## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitrao93198&theme=matrix&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitrao93198&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 🌐 CONNECT  
+## 📫 Connect With Me  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rohit-ydv">
-  <img src="https://img.shields.io/badge/LINKEDIN-00ff9c?style=for-the-badge&logo=linkedin&logoColor=black">
-</a>
-<a href="mailto:ry164863@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-ff00ff?style=for-the-badge&logo=gmail">
-</a>
-<a href="https://github.com/rohitrao93198">
-  <img src="https://img.shields.io/badge/GITHUB-0affff?style=for-the-badge&logo=github&logoColor=black">
-</a>
+<a href="https://www.linkedin.com/in/rohit-ydv"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:ry164863@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/rohitrao93198"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
-## ⚠️ FINAL_LOG  
+## ⚡ Fun Fact  
 
-```bash
-> "Turning complex logic into simple, scalable systems."
-> -- Rohit Yadav
-```
+I love turning complex backend logic into simple and beautiful UI ✨  
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0affff&height=120&section=footer"/>
-</p>
+⭐ *If you like my work, don't forget to star my repositories!*

@@ -1,82 +1,103 @@
 <h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
 
 <h3 align="center">
-🚀 Full Stack (MERN) Developer | React.js | Node.js | Java | API Specialist
+☁️ Aspiring Cloud Engineer | AWS | Linux | Docker | Jenkins | Terraform | DevOps
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Java+%7C+OOP+Enthusiast;Docker+%7C+AWS+Basics;API+Integration+Expert;Open+to+Opportunities&center=true&width=550&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Cloud+Engineer;AWS+%7C+Linux+%7C+Docker;Jenkins+%7C+Terraform+%7C+CI%2FCD;Networking+%7C+CloudWatch+%7C+IAM;Python+for+Automation;Open+to+Cloud+%26+DevOps+Roles&center=true&width=650&height=50">
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-- 💻 Full Stack Developer with hands-on MERN experience  
-- ⚛️ Strong in React.js, JavaScript (ES6+), Tailwind, MUI  
-- ☕ Solid foundation in **Java & Object-Oriented Programming (OOP)**  
-- 🔗 Expert in REST API Integration & Authentication  
-- 🔐 Built secure systems using JWT & RBAC  
-- ☁️ Familiar with **Docker & AWS (EC2, S3, IAM)**  
-- 🚀 Open to Full Stack / Frontend Developer roles  
+- ☁️ Aspiring Cloud Engineer with hands-on experience in AWS Cloud Services
+- 🐧 Strong knowledge of Linux Administration & Server Management
+- 🌐 Good understanding of Networking (TCP/IP, DNS, DHCP, Routing, HTTP/HTTPS)
+- 🐳 Experience with Docker Containerization & Deployment
+- 🔄 Built CI/CD Pipelines using Jenkins
+- 🏗️ Infrastructure as Code (IaC) using Terraform
+- 📊 Monitoring & Logging using AWS CloudWatch
+- 🔐 Knowledge of IAM, VPC, Security Groups & AWS Security Best Practices
+- 🐍 Familiar with Python Scripting for Automation
+- 🚀 Open to Cloud Engineer / DevOps Engineer / AWS Engineer Roles
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,java,html,css,tailwind,redux,nodejs,express,mongodb,mysql,docker,aws,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,jenkins,terraform,python,bash,git,github,mysql,mongodb,vscode,postman" />
 </p>
 
 ---
 
-## 💼 Experience  
+## 💼 Experience
 
-**Frontend Developer — Rapidsoft Technologies**  
-📍 Gurugram | 🗓️ Jan 2025 – May 2025  
+**Frontend Developer Trainee — Rapidsoft Technologies**  
+📍 Gurugram | 🗓️ Jan 2025 – May 2025
 
-- Built responsive web apps using React.js & MUI  
-- Developed User Management System  
-- Implemented Role-Based Access (Admin/Employee)  
-- Created Admin Dashboard with CRUD operations  
-- Integrated REST APIs with backend team  
-
----
-
-## 🚀 Projects  
-
-### 🧠 Panchayat – AI-powered Society Management System  
-- MERN stack + AI chatbot + voice complaint system  
-- Real-time notifications & email automation  
-- PDF-based AI query system  
+- Developed and maintained responsive web applications
+- Collaborated with backend teams for API integrations
+- Worked with Git & GitHub for version control
+- Optimized application performance and UI workflows
+- Gained practical experience in Software Development Lifecycle (SDLC)
 
 ---
 
-### 💼 CareerNest – Job Portal  
-- Full-stack MERN app with JWT auth  
-- 10+ REST APIs & file upload system  
-- Redux Toolkit for state management  
+## 🚀 Projects
+
+### ☁️ Three-Tier Web Application Deployment on AWS
+
+**Technologies:** AWS EC2, Amazon RDS, VPC, IAM, Security Groups, CloudWatch, Linux
+
+- Designed and deployed a secure Three-Tier Architecture on AWS
+- Configured Public & Private Subnets within a VPC
+- Implemented Route Tables and Security Groups
+- Hosted application workloads on EC2 instances
+- Integrated EC2 instances with Amazon RDS
+- Implemented monitoring using AWS CloudWatch
+- Applied IAM security best practices
 
 ---
 
-### 🏦 Banking Backend System  
-- Secure transaction system with JWT & bcrypt  
-- Designed backend using **OOP principles & scalable architecture**  
-- APIs for transfer, history & account management  
-- Email notification system  
+### 🔄 CI/CD Pipeline using Jenkins, SonarQube, Docker & AWS
+
+**Technologies:** Jenkins, SonarQube, Docker, GitHub, AWS EC2, Linux
+
+- Built an end-to-end CI/CD Pipeline using Jenkins
+- Integrated GitHub repositories for automated builds
+- Performed code quality analysis using SonarQube
+- Created Docker images and automated deployments
+- Deployed applications on AWS EC2
+- Configured secure communication using AWS Security Groups
+- Automated build, test and deployment workflows
 
 ---
 
-## 📊 GitHub Stats  
+## 📜 Certifications
+
+- 🏆 AWS Cloud Computing Fundamentals – Udemy
+- 🏆 Linux for DevOps, Cloud and SRE Engineers – Udemy
+- 🏆 MERN Stack Development – Ducat India
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohitrao93198&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrao93198&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrao93198&layout=compact&theme=radical" />
+</p>
+
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rohitrao93198&theme=radical&no-frame=true&margin-w=10" />
@@ -84,7 +105,7 @@
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rohit-ydv"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
@@ -94,10 +115,9 @@
 
 ---
 
-## ⚡ Fun Fact  
+## ⚡ Fun Fact
 
-I enjoy designing scalable backend systems and turning complex logic into simple UI ✨  
+I enjoy automating infrastructure, deploying applications on AWS, and building scalable cloud solutions using DevOps practices 🚀
 
----
 
-⭐ *If you like my work, don't forget to star my repositories!*
+⭐ **If you like my work, don't forget to star my repositories!**
